@@ -1,1 +1,2 @@
 This is my 1st Line for Master Branch
+This is my 3rd Line for Master Branch
